@@ -1,0 +1,6 @@
+{
+  "name": "najah-portal - Smart AI Campus & Event Platform",
+  "description": "The Smart AI Platform for Campus Events, Communities, and Student Life with role-based administration, certificate generation, gallery, notifications, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
